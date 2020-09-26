@@ -92,7 +92,7 @@
     "gulp-zip": "4.2.0",
     "ifvisible.js": "1.0.6",
     "intersection-observer": "0.5.0",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "jquery-backstretch": "2.1.16",
     "jquery-migrate": "^3.0.1",
     "jquery-mousewheel": "3.1.13",
